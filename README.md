@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Sahu</h1>
-<h3 align="center"> I'm a pre-final year Computer Science student passionate about crafting seamless and dynamic web experiences.
+<h3> I'm a pre-final year Computer Science student passionate about crafting seamless and dynamic web experiences.
 
 💻 Frontend Web Developer | Next.js Enthusiast 
 
