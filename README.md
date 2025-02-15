@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Sahu</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h3 align="center"> I'm a pre-final year Computer Science student passionate about crafting seamless and dynamic web experiences.
+
+💻 Frontend Web Developer | Next.js Enthusiast 
+
+🚀 Building interactive UIs with React & Next.js
+🎨 Love turning ideas into pixel-perfect, responsive designs
+🛠️ Always experimenting with new web technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidehis3007&label=Profile%20views&color=0e75b6&style=flat" alt="vaidehis3007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaidehis3007" alt="vaidehis3007" /></a> </p>
 
-- 📫 How to reach me **sahuvaidehi30@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vaidehi-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaidehi-sahu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/vaidehissahu_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaidehissahu_30/" height="30" width="40" /></a>
