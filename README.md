@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a pre-final year Computer Science student passionate about crafting seamless and dynamic web experiences.<br>💻 Frontend Web Developer | Next.js Enthusiast<br>🚀 Building interactive UIs with React & Next.js <br>🎨 Love turning ideas into pixel-perfect, responsive designs <br>🛠️ Always experimenting with new web technologies
+I'm a final year Computer Science student passionate about crafting seamless and dynamic web experiences.<br>💻 Frontend Web Developer | Next.js Enthusiast<br>🚀 Building interactive UIs with React & Next.js <br>🎨 Love turning ideas into pixel-perfect, responsive designs <br>🛠️ Always experimenting with new web technologies
 
 
 ## 🌐 Socials:
